@@ -56,15 +56,15 @@ A simple rule-based chatbot developed using Python Tkinter.
 
 ### Hangman Game
 
-![Hangman Game](screenshots/hangman.png)
+<img width="1920" height="1080" alt="Screenshot (303)" src="https://github.com/user-attachments/assets/976b7a1a-372e-426f-8188-63cd09c607c9" />
 
 ### Stock Portfolio Tracker
 
-![Stock Portfolio Tracker](screenshots/stock_tracker.png)
+<img width="1920" height="1080" alt="Screenshot (302)" src="https://github.com/user-attachments/assets/14a26142-1d21-4c75-abe5-b3914f59f504" />
 
 ### Basic ChatBot
 
-![ChatBot](screenshots/chatbot.png)
+<img width="1920" height="1080" alt="Screenshot (304)" src="https://github.com/user-attachments/assets/751ef0ce-b04a-44e4-974d-090403af00d8" />
 
 ---
 

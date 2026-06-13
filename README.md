@@ -1,5 +1,9 @@
 # 🚀 CodeAlpha Python Programming Internship Projects
 
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Tkinter](https://img.shields.io/badge/GUI-Tkinter-green)
+![CodeAlpha](https://img.shields.io/badge/Internship-CodeAlpha-orange)
+
 This repository contains the projects completed as part of the **CodeAlpha Python Programming Internship**.
 
 ## 📌 Projects Included

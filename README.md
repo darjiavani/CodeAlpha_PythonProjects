@@ -70,7 +70,6 @@ A simple rule-based chatbot developed using Python Tkinter.
 
 <img width="1920" height="1080" alt="Screenshot (304)" src="https://github.com/user-attachments/assets/751ef0ce-b04a-44e4-974d-090403af00d8" />
 
-https://photos.app.goo.gl/S1QdHeR2EPwH33pK9
 ---
 
 ## 🎓 Internship
